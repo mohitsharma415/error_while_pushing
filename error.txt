@@ -1,2 +1,3 @@
 We are encountering error while pushing changes to repo.
 New line added
+New line added.
